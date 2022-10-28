@@ -1,6 +1,15 @@
 [
   {
     "id": 1,
+    "title": "Swift",
+    "dec": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!",
+    "details": "We know that you're here because you value your time. If you wanted to watch someone program for hours and hours without explaining what they're doing, you'd be on YouTube. By getting this course, you can be rest assured that the course is carefully thought out and edited. There are beautiful animations that explain all the difficult concepts and the videos are fully up to date with the latest versions of Swift and Xcode.",
+    "ratings": 4.1,
+    "students": 246,
+    "img": "https://miro.medium.com/max/750/1*OgeU8HPo8TFF1cZQ-4XjJw.jpeg"
+  },
+  {
+    "id": 2,
     "title": "Python Bootcamp ",
     "dec": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
     "details": "This is the most comprehensive, yet straight forward, course for the Python programming language on Udemy! Whether you have never programmed before, already know basic syntax, or want to learn about the advanced features of Python, this course is for you! In this course we will teach you Python 3. With over 100 lectures and more than 21 hours of video this comprehensive course leaves no stone unturned! This course includes quizzes, tests, coding exercises and homework assignments as well as 3 major projects to create a Python project portfolio! Learn how to use Python for real-world tasks, such as working with PDF Files, sending emails, reading Excel files, Scraping websites for informations, working with image files, and much more This course will teach you Python in a practical manner, with every lecture comes a full coding screencast and a corresponding code notebook! Learn in whatever manner is best for you",
@@ -9,7 +18,7 @@
     "img": "https://www.fossmint.com/wp-content/uploads/2020/03/Udemy-Advance-Python-Learning-Courses.png"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Java Programming",
     "dec": "Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification",
     "details": " This course is designed to give you the Java skills you need to get a job as a Java developer.  By the end of the course, you will understand Java extremely well and be able to build your own Java apps and be productive as a software developer. Lots of students have been successful in getting their first job or promotion after going through the course. Here is just one example of a student who lost her job and despite having never coded in her life previously, got a full-time software developer position in just a few months after starting this course.  She didn't even complete the course",
@@ -18,7 +27,7 @@
     "img": "https://mindqsystems.com/wp-content/uploads/2019/08/Core-Java-Training.jpg"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "JavaScript",
     "dec": "Modern JavaScript from the beginning - all the way up to JS expert level! THE must-have JavaScript resource in 2022.",
     "details": "JavaScript is THE most important programming language you need to learn as a web developer - and with this course, you make sure that you will not miss a single thing you have to know as a JavaScript developer! This is the most comprehensive and modern course you can find on JavaScript - it's based on all my JavaScript knowledge AND teaching experience. It's both a complete guide, starting with the core basics of the language, as well as an extensive reference of the JavaScript language and environment, ensuring that both newcomers as well as experienced JavaScript developers get a lot out of this course!",
@@ -27,7 +36,7 @@
     "img": "https://onlinecoursesgalore.com/wp-content/uploads/2018/01/best-javascript-programming-courses-online.jpg"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Objective-C",
     "dec": "A Complete iOS 12 and Xcode 10 Course with Objective-C",
     "details": "Many programmers learning to create there first iOS 12 application often learn from a boring 300 paged book or a short online video tutorial and are often left with more questions they they asked! This iOS 12 & Xcode 10 course teaches you from the ground up and i never leave you hanging as i support you through each and every step, i am there to assist you when you run into a problem in Xcode 10 and to offer any advice needed and before you know if you will have created your first iOS 12 app and will feel like everything your learned has stuck in your head.",
@@ -36,21 +45,12 @@
     "img": "https://themindstudios.com/blog/content/images/2017/02/Swift-over-Obj-C.jpg"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "C Programming",
     "dec": "C Programming will increase career options. Become a better dev in other languages by learning C.",
     "details": "C is often considered to be the mother of all languages because so many other languages have been based on it.Though C is simple it is one of the most powerful languages ever created.  Considering it was created over 40 years ago, it is still used heavily and is usually in the top 5 or 10 most popular and most widely programming languages in the world. Learning C can actually make you a better programming in other languages like C++, Java, or C# by equipping you with a mental model of what the computer is actually doing when you run your programs.",
     "ratings": 3.8,
     "students": 3298,
     "img": "https://www.ictacademy.in/pages/assets/base/img/content/stock/cprogram.jpg"
-  },
-  {
-    "id": 6,
-    "title": "Swift",
-    "dec": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!",
-    "details": "We know that you're here because you value your time. If you wanted to watch someone program for hours and hours without explaining what they're doing, you'd be on YouTube. By getting this course, you can be rest assured that the course is carefully thought out and edited. There are beautiful animations that explain all the difficult concepts and the videos are fully up to date with the latest versions of Swift and Xcode.",
-    "ratings": 4.1,
-    "students": 246,
-    "img": "https://miro.medium.com/max/750/1*OgeU8HPo8TFF1cZQ-4XjJw.jpeg"
   }
 ]

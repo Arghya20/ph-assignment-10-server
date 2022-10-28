@@ -10,10 +10,6 @@ app.get("/", (req, res) => {
   res.send("now server is running");
 });
 
-app.get("/name", (req, res) => {
-  res.send("Arghya Ghosh ");
-});
-
 app.get("/data", (req, res) => {
   res.send(getData);
 });
