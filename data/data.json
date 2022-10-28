@@ -53,13 +53,4 @@
     "students": 3298,
     "img": "https://www.ictacademy.in/pages/assets/base/img/content/stock/cprogram.jpg"
   }
-  {
-    "id": 6,
-    "title": "C Programming",
-    "dec": "C Programming will increase career options. Become a better dev in other languages by learning C.",
-    "details": "C is often considered to be the mother of all languages because so many other languages have been based on it.Though C is simple it is one of the most powerful languages ever created.  Considering it was created over 40 years ago, it is still used heavily and is usually in the top 5 or 10 most popular and most widely programming languages in the world. Learning C can actually make you a better programming in other languages like C++, Java, or C# by equipping you with a mental model of what the computer is actually doing when you run your programs.",
-    "ratings": 3.8,
-    "students": 3298,
-    "img": "https://www.ictacademy.in/pages/assets/base/img/content/stock/cprogram.jpg"
-  }
 ]
